@@ -1,35 +1,19 @@
 .jumbotron {
-
     color: white;
-
     text-shadow: #444 0 2px 2px;
-
     background: transparent;
-
 }
 
-
-
 label {
-
     color: white;
-
     text-shadow: #444 0 2px 2px;
-
 }
 
 body {
-
     /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#63b6db+17,309dcf+100 */
-
     background: rgb(0,0,0); /* Old browsers */
-
     background: -moz-radial-gradient(center, ellipse cover, rgb(0,0,0) 17%, rgb(0,0,0) 100%); /* FF3.6-15 */
-
     background: -webkit-radial-gradient(center, ellipse cover, rgb(0,0,0) 17%,rgb(0,0,0) 100%); /* Chrome10-25,Safari5.1-6 */
-
     background: radial-gradient(ellipse at center, rgb(0,0,0) 17%,rgb(0,0,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#63b6db', endColorstr='#309dcf',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
-
 }

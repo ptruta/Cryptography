@@ -1,19 +1,11 @@
 var p, q, e, d, n;
-
 e = 67;
-
 n = 1643;
-
 d = 163;
-
 var eps;
-
 var n;
-
 let l = 2;
-
 let k = 3;
-
 var wasInited = 0;
 
 const plaintext = ' abcdefghijklmnopqrstuvwxyz'
